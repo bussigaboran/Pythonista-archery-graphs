@@ -1,7 +1,7 @@
 # Pythonista-archery-graphs
 Archery-graphs.py is a Pythonista program that helps visualizing and comparing archery training sessions. 
 
-The script takes it's input from the clipboard and generates two sets of plots. 
+The script takes its input from the clipboard and generates two sets of plots. 
 The first one is a large box plot covering all logged results. Then individual (scatter) plots are 
 created for each training session.
 
@@ -15,7 +15,7 @@ Recurve 18 m (2019)
 
 ## Box plot
 The first line in the example is used for the box plot´s title. Each subsequent data line consist of a date 
-followed by the summary of each 3-arrow round.
+followed by the summaries of each 3-arrow round.
 
 ## Scatter plots
 Each log entry results in one scatter plot. The title is built from the date plus a calculated value 
